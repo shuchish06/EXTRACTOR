@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## 🖥️ Interface Preview
-![Main Interface](assets/interface.jpg)
+![Main Interface](assets/interface.png)
 
 ### 🎥 [Click Here to Watch the Demo Video](https://drive.google.com/file/d/1GWxymqDNsD63AOm0zNCJGaEqQlXKVdva/view?usp=sharing)
 
